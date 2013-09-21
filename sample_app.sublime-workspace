@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"have",
+				"have_title"
+			],
+			[
+				"H",
+				"Help"
+			],
+			[
 				"p",
 				"presence"
 			],
@@ -39,7 +47,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 92.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -51,7 +59,7 @@
 				"Snippet: assert_difference"
 			]
 		],
-		"width": 530.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -68,6 +76,20 @@
 	},
 	"file_history":
 	[
+		"/home/phoenix/RoR/sample_app/Gemfile",
+		"/home/phoenix/RoR/sample_app/app/views/static_pages/home.html.erb",
+		"/home/phoenix/RoR/sample_app/app/views/static_pages/help.html.erb",
+		"/home/phoenix/RoR/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/phoenix/RoR/sample_app/app/views/layouts/application.html.erb",
+		"/home/phoenix/RoR/sample_app/app/helpers/application_helper.rb",
+		"/home/phoenix/RoR/sample_app/app/helpers/static_pages_helper.rb",
+		"/home/phoenix/RoR/sample_app/app/views/static_pages/contact.html.erb",
+		"/home/phoenix/RoR/sample_app/app/views/static_pages/about.html.erb",
+		"/home/phoenix/RoR/sample_app/spec/spec_helper.rb",
+		"/home/phoenix/RoR/sample_app/.rspec",
+		"/home/phoenix/RoR/sample_app/Guardfile",
+		"/home/phoenix/RoR/sample_app/config/routes.rb",
+		"/home/phoenix/RoR/sample_app/app/controllers/static_pages_controller.rb",
 		"/home/phoenix/RoR/RailsTutorial/app/models/micropost.rb",
 		"/home/phoenix/RoR/photoblog/app/views/photos/new.html.erb",
 		"/home/phoenix/RoR/photoblog/app/assets/stylesheets/photos.css.scss",
@@ -98,6 +120,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"childprocess",
 			"td"
 		],
 		"highlight": true,
@@ -178,10 +201,10 @@
 		],
 		"width": 380.0
 	},
-	"show_minimap": false,
-	"show_open_files": true,
+	"show_minimap": true,
+	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 280.0,
+	"side_bar_width": 218.0,
 	"status_bar_visible": true
 }
